@@ -25,5 +25,3 @@ for(int i = 0; i < ROW; i++)
 }
 return 0;
 }
-
-hiqwfhiqh
