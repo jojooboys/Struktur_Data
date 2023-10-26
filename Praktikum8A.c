@@ -63,5 +63,12 @@ struct node* root = newNode(8);
     root->right->left = newNode(14);
     root->right->left->right = newNode(13);
     
+    displayPreorder(root);
+    printf ("\n");
+    displayInorder(root);
+    printf ("\n");
+    displayPostorder(root);
+    printf ("\n");
+
     return 0;
 }
