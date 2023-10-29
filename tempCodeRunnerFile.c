@@ -1,1 +1,2 @@
-&& kal > (*head)->kalkulus)
+
+int main()
